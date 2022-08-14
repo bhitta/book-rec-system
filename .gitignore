@@ -1,5 +1,5 @@
 #custom
-book_titles.json
+books_titles.json
 goodreads_interactions.csv
 *.gz
 # Byte-compiled / optimized / DLL files
